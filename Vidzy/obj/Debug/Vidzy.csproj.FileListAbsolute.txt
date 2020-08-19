@@ -16,3 +16,23 @@ C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migra
 C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.EnhanceVideosTable.resources
 C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.EnhanceGenresTable.resources
 C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddTags.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\bin\Debug\Vidzy.exe.config
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\bin\Debug\Vidzy.exe
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\bin\Debug\Vidzy.pdb
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\bin\Debug\EntityFramework.dll
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\bin\Debug\EntityFramework.xml
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.csprojAssemblyReference.cache
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.Migrations.InitialModel.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.Migrations.PopulateGenresTable.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.Migrations.AddGenreToVideosTable.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.Migrations.AddClassificationToVideosTable.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.Migrations.EnhanceVideosTable.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.Migrations.EnhanceGenresTable.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.Migrations.AddTags.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.csproj.GenerateResource.cache
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.csproj.CoreCompileInputs.cache
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.exe
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyQuerying\Vidzy\obj\Debug\Vidzy.pdb

@@ -7,7 +7,6 @@ namespace Vidzy.Migrations
     {
         public override void Up()
         {
-            Sql("ALTER TABLE dbo.Videos DROP CONSTRAINT DF__Videos__Classifi__1920BF5C");
             DropForeignKey("dbo.Videos", "Genre_Id", "dbo.Genres");
             DropIndex("dbo.Videos", new[] { "Genre_Id" });
             RenameColumn(table: "dbo.Videos", name: "Genre_Id", newName: "GenreId");
