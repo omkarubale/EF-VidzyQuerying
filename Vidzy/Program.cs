@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.Entity;
 using System.Linq;
 
 namespace Vidzy
@@ -8,6 +9,9 @@ namespace Vidzy
         static void Main(string[] args)
         {
             var context = new VidzyContext();
+
+            //Excercise 6
+
             var actionMoviesSortedByName = context.Videos
                 .Where(v => v.Genre.Name == "Action")
                 .OrderBy(v => v.Name);
@@ -82,6 +86,18 @@ namespace Vidzy
             foreach (var genre in genresWithVideoCounts)
             {
                 Console.WriteLine("{0} ({1})", genre.GenreName, genre.NumberOfVideos);
+            }
+
+            // Excercice 7
+            Console.WriteLine("Excercise 7: Loading Related Object");
+
+            var allVideosInDb = context.Videos.Include(v => v.Genre).ToList();
+
+            Console.WriteLine("All videos in database with Genre: ");
+
+            foreach (var video in allVideosInDb)
+            {
+                Console.WriteLine("{0} ({1})", video.Name, video.Genre.Name);
             }
         }
     }
